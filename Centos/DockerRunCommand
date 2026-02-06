@@ -1,0 +1,4 @@
+docker run --privileged -it \
+    --name rhcsa-lab \
+    -v /sys/fs/cgroup:/sys/fs/cgroup:ro \
+    rhcsa-centos9

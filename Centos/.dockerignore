@@ -1,0 +1,11 @@
+.git
+.idea
+**/.DS_Store
+**/*.log
+**/*.key
+**/*.pem
+**/*.crt
+**/*.csr
+**/*secret*
+**/*.vault
+__pycache__

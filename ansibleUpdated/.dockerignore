@@ -1,0 +1,13 @@
+.git
+.idea
+**/.DS_Store
+**/*.log
+**/*.key
+**/*.pem
+**/*.crt
+**/*.csr
+**/*secret*
+**/*.vault
+__pycache__
+id_ed25519
+id_ed25519.pub
