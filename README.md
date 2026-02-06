@@ -56,8 +56,3 @@ Get the initial admin password:
 ```bash
 docker exec -it jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 ```
-
-## Notes
-
-- Avoid committing secrets. Use placeholders like `<REDACTED_PASSWORD>`.
-- Public keys are fine to publish, but keep private keys out of the repo.
