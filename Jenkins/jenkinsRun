@@ -7,6 +7,3 @@ docker run -d \
 
 # To get the initial admin password:
 # docker exec -it jenkins cat /var/jenkins_home/secrets/initialAdminPassword
-
-InitialPassword
-<REDACTED_PASSWORD>
