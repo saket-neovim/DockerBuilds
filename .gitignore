@@ -1,0 +1,16 @@
+
+
+# Local environment and editor artifacts
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local SSH identity material
+id_rsa*
+id_ed25519*
+*.key
+*.pem
